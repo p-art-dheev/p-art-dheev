@@ -4,11 +4,8 @@
 
 ## 🚀 Tech Stack
 
-- **Languages:** Python, C++, Java, JavaScript
-- **Web Development:** HTML, CSS, React.js, Node.js
-- **Machine Learning & AI:** TensorFlow, PyTorch, OpenCV, Scikit-Learn
-- **Databases:** MySQL, MongoDB, Firebase
-- **DevOps & Tools:** Git, Docker, Linux, VS Code
+- **Languages:** Python, C++, JavaScript
+- **Web Development:** HTML, CSS
 
 ## 📫 Connect
 
