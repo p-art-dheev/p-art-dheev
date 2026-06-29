@@ -1,10 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=header&text=Pardheev%20Vatturu&fontSize=42&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Pardheev%20Vatturu&fontSize=42&fontColor=ffffff"/>
 
 # 💫 About Me:
-🎓 Final-year B.Tech AI Engineering student at Amrita Vishwa Vidyapeetham.<br>💻Learning, building, and experimenting with Full Stack Development and AI/ML.
+🎓 Final-year B.Tech AI Engineering student at Amrita Vishwa Vidyapeetham.<br>
+💻Learning, building, and experimenting with Full Stack Development and AI/ML.
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pardheev_draws) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pardheev-vatturu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pardheev.vatturu1234@gmail.com) 
 
 # 💻 Tech Stack:
