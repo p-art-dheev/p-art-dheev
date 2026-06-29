@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=180&section=header&text=Pardheev%20Vatturu&fontSize=42&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=120&section=header&text=Pardheev%20Vatturu&fontSize=42&fontColor=ffffff"/>
 
 # 💫 About Me:
 🎓 Final-year B.Tech AI Engineering student at Amrita Vishwa Vidyapeetham.<br>💻Learning, building, and experimenting with Full Stack Development and AI/ML.
