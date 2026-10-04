@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/terminal.svg" alt="pardheev@dev: ~ whoami" width="760"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img src="assets/hero.svg" alt="pardheev.ts: full-stack developer, with a generative sketch drawing itself" width="900"/>
+</picture>
 
 <br/><br/>
 
@@ -10,26 +14,15 @@
 [![Discord](https://img.shields.io/badge/DISCORD-pardheev__draws-5865F2?style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=white)](https://discord.gg/pardheev_draws)
 [![Resume](https://img.shields.io/badge/RESUME-PDF-6366f1?style=for-the-badge&labelColor=0d1117&logo=readthedocs&logoColor=white)](https://pardheev.dev/resume/resume.pdf)
 
+<img src="assets/divider.svg" width="900" alt=""/>
+
 </div>
 
-<br/>
+## <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%230ea5e9" height="24" align="center"/>&nbsp; /dev
 
-## <img src="https://api.iconify.design/lucide:braces.svg?color=%236366f1" height="24" align="center"/>&nbsp; About
+<img src="assets/mascot.svg" align="right" width="240" alt="pixel-art developer mascot"/>
 
-```ts
-const pardheev: Developer = {
-  role:      "Full-Stack Developer",
-  studying:  "B.Tech AI Engineering @ Amrita Vishwa Vidyapeetham (2023-2027)",
-  location:  "Coimbatore, India",
-  focus:     ["Full-Stack Web", "AI / ML", "NLP", "Time-Series Forecasting"],
-  offScreen: ["Realism & digital art", "Philosophy, psychology & productivity books"],
-  learnsBy:  "building things",
-};
-```
-
-<br/>
-
-## <img src="https://api.iconify.design/lucide:layers.svg?color=%236366f1" height="24" align="center"/>&nbsp; Stack
+I build across the full stack and care about the ML side of it too: web apps, NLP models and time-series forecasting. I learn by shipping things, and most of what I know came from a project that needed it.
 
 <sub><code>// languages</code></sub><br/>
 <img src="https://skillicons.dev/icons?i=ts,js,py,cpp" height="44"/>
@@ -45,7 +38,7 @@ const pardheev: Developer = {
 
 <sub><code>// ai / ml</code></sub><br/>
 <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" height="44"/>
-<img src="https://img.shields.io/badge/BERT-0d1117?style=flat-square&labelColor=0d1117&color=6366f1"/>
+<img src="https://img.shields.io/badge/BERT-0d1117?style=flat-square&color=6366f1"/>
 <img src="https://img.shields.io/badge/Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=white&color=6366f1"/>
 <img src="https://img.shields.io/badge/LSTM-0d1117?style=flat-square&color=6366f1"/>
 <img src="https://img.shields.io/badge/PuLP-0d1117?style=flat-square&color=6366f1"/>
@@ -55,54 +48,50 @@ const pardheev: Developer = {
 <img src="https://skillicons.dev/icons?i=git,github,npm,vercel" height="44"/>
 <img src="https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=white&color=46E3B7"/>
 
-<br/>
+<div align="center"><img src="assets/divider.svg" width="900" alt=""/></div>
 
-## <img src="https://api.iconify.design/lucide:rocket.svg?color=%236366f1" height="24" align="center"/>&nbsp; Projects
+## <img src="https://api.iconify.design/lucide:palette.svg?color=%23ec4899" height="24" align="center"/>&nbsp; /draw
 
-### Codexa
-Web-based coding assessment platform for programming tests.<br/>
-<img src="https://skillicons.dev/icons?i=nextjs,postgres" height="32" align="center"/>
+When I'm not at the keyboard I'm drawing: **realism** with graphite and **digital art**. I also read a lot of philosophy, psychology and productivity books. Code and art feel like the same habit to me: stare at a blank canvas, break it into small steps, iterate until it looks right.
 
-[![Live](https://img.shields.io/badge/LIVE-codexa.pardheev.dev-22c55e?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=22c55e)](https://codexa.pardheev.dev)
-[![Source](https://img.shields.io/badge/SOURCE-Codexa-30363d?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/p-art-dheev/Codexa)
+[![Sketchbook](https://img.shields.io/badge/SKETCHBOOK-join%20the%20Discord-5865F2?style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=white)](https://discord.gg/pardheev_draws)
 
-### Nutrix
-Recommends meals based on calorie and nutritional needs, optimised with linear programming.<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,react" height="32" align="center"/> <img src="https://img.shields.io/badge/PuLP-0d1117?style=flat-square&color=6366f1" align="center"/>
+<div align="center"><img src="assets/divider.svg" width="900" alt=""/></div>
 
-[![Live](https://img.shields.io/badge/LIVE-nutrix.pardheev.dev-22c55e?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=22c55e)](https://nutrix.pardheev.dev)
-[![Source](https://img.shields.io/badge/SOURCE-nutrix-30363d?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/p-art-dheev/nutrix)
-
-### Aspect Based Sentiment Analysis
-BERT-based NLP model that classifies sentiment from context-rich text.<br/>
-<img src="https://img.shields.io/badge/BERT-0d1117?style=flat-square&color=6366f1"/> <img src="https://img.shields.io/badge/Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=white&color=6366f1"/> <img src="https://img.shields.io/badge/NLP-0d1117?style=flat-square&color=6366f1"/>
-
-[![Source](https://img.shields.io/badge/SOURCE-absa-30363d?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/p-art-dheev/absa)
-
-### Electricity Load Forecasting
-Forecasts electricity demand from 16 years of PJM hourly data, comparing SARIMA / SETAR with LSTM.<br/>
-<img src="https://skillicons.dev/icons?i=py" height="32" align="center"/> <img src="https://img.shields.io/badge/LSTM-0d1117?style=flat-square&color=6366f1" align="center"/> <img src="https://img.shields.io/badge/Time%20Series-0d1117?style=flat-square&color=6366f1" align="center"/>
-
-[![Source](https://img.shields.io/badge/SOURCE-PJME--Weekly--Forecast-30363d?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/p-art-dheev/PJME-Weekly-Forecast)
-
-<br/>
-
-## <img src="https://api.iconify.design/lucide:activity.svg?color=%236366f1" height="24" align="center"/>&nbsp; Activity
+## <img src="https://api.iconify.design/lucide:activity.svg?color=%236366f1" height="24" align="center"/>&nbsp; /activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=p-art-dheev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-art-dheev&theme=tokyonight&hide_border=true&layout=compact"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=p-art-dheev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=p-art-dheev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=6366f1&icon_color=0ea5e9&text_color=1f2328">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=p-art-dheev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=p-art-dheev&theme=tokyonight&hide_border=true&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=p-art-dheev&hide_border=true&layout=compact&bg_color=ffffff&title_color=6366f1&text_color=1f2328">
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-art-dheev&theme=tokyonight&hide_border=true&layout=compact">
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=p-art-dheev&theme=tokyonight&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=p-art-dheev&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=p-art-dheev&hide_border=true&background=FFFFFF&ring=6366f1&fire=ec4899&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=6366f1&sideLabels=57606a&dates=57606a">
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=p-art-dheev&theme=tokyonight&hide_border=true">
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=p-art-dheev&theme=tokyo-night&hide_border=true&area=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=p-art-dheev&theme=tokyo-night&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=p-art-dheev&bg_color=ffffff&color=6366f1&line=0ea5e9&point=ec4899&area_color=6366f1&title_color=1f2328&hide_border=true&area=true">
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=p-art-dheev&theme=tokyo-night&hide_border=true&area=true">
+</picture>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p-art-dheev/p-art-dheev/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p-art-dheev/p-art-dheev/output/snake.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/p-art-dheev/p-art-dheev/output/snake-dark.svg">
+</picture>
 
 <br/>
-
-<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=p-art-dheev&label=VISITORS&style=for-the-badge&color=6366f1&labelColor=0d1117&abbreviated=false" alt="visitor count"/>
 
