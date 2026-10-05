@@ -20,8 +20,6 @@
 
 ## <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%230ea5e9" height="24" align="center"/>&nbsp; /dev
 
-<img src="assets/mascot.svg" align="right" width="240" alt="pixel-art developer mascot"/>
-
 I build across the full stack and care about the ML side of it too: web apps, NLP models and time-series forecasting. I learn by shipping things, and most of what I know came from a project that needed it.
 
 <sub><code>// languages</code></sub><br/>
@@ -50,14 +48,6 @@ I build across the full stack and care about the ML side of it too: web apps, NL
 
 <div align="center"><img src="assets/divider.svg" width="900" alt=""/></div>
 
-## <img src="https://api.iconify.design/lucide:palette.svg?color=%23ec4899" height="24" align="center"/>&nbsp; /draw
-
-When I'm not at the keyboard I'm drawing: **realism** with graphite and **digital art**. I also read a lot of philosophy, psychology and productivity books. Code and art feel like the same habit to me: stare at a blank canvas, break it into small steps, iterate until it looks right.
-
-[![Sketchbook](https://img.shields.io/badge/SKETCHBOOK-join%20the%20Discord-5865F2?style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=white)](https://discord.gg/pardheev_draws)
-
-<div align="center"><img src="assets/divider.svg" width="900" alt=""/></div>
-
 ## <img src="https://api.iconify.design/lucide:activity.svg?color=%236366f1" height="24" align="center"/>&nbsp; /activity
 
 <div align="center">
@@ -83,12 +73,6 @@ When I'm not at the keyboard I'm drawing: **realism** with graphite and **digita
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=p-art-dheev&theme=tokyo-night&hide_border=true&area=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=p-art-dheev&bg_color=ffffff&color=6366f1&line=0ea5e9&point=ec4899&area_color=6366f1&title_color=1f2328&hide_border=true&area=true">
   <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=p-art-dheev&theme=tokyo-night&hide_border=true&area=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p-art-dheev/p-art-dheev/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p-art-dheev/p-art-dheev/output/snake.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/p-art-dheev/p-art-dheev/output/snake-dark.svg">
 </picture>
 
 <br/>
