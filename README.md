@@ -1,4 +1,12 @@
-# Hi, I'm Pardheev
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/signature.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/signature-light.svg">
+  <img src="assets/signature.svg" alt="Pardheev Vatturu" width="700"/>
+</picture>
+
+</div>
 
 I build across the full stack and care about the ML side of it too: web apps, NLP models and time-series forecasting. I learn by shipping things, and most of what I know came from a project that needed it.
 
