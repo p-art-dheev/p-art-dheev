@@ -1,54 +1,25 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero.svg" alt="pardheev.ts: full-stack developer, with a generative sketch drawing itself" width="900"/>
-</picture>
-
-<br/><br/>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-pardheev.dev-0ea5e9?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=white)](https://pardheev.dev)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-pardheev--vatturu-0077B5?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white)](https://linkedin.com/in/pardheev-vatturu)
-[![Email](https://img.shields.io/badge/EMAIL-get%20in%20touch-D14836?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white)](mailto:pardheev.vatturu1234@gmail.com)
-[![Discord](https://img.shields.io/badge/DISCORD-pardheev__draws-5865F2?style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=white)](https://discord.gg/pardheev_draws)
-[![Resume](https://img.shields.io/badge/RESUME-PDF-6366f1?style=for-the-badge&labelColor=0d1117&logo=readthedocs&logoColor=white)](https://pardheev.dev/resume/resume.pdf)
-
-<img src="assets/divider.svg" width="900" alt=""/>
-
-</div>
-
-## <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%230ea5e9" height="24" align="center"/>&nbsp; /dev
+# Hi, I'm Pardheev
 
 I build across the full stack and care about the ML side of it too: web apps, NLP models and time-series forecasting. I learn by shipping things, and most of what I know came from a project that needed it.
 
-<sub><code>// languages</code></sub><br/>
-<img src="https://skillicons.dev/icons?i=ts,js,py,cpp" height="44"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-pardheev.dev-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://pardheev.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pardheev--vatturu-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pardheev-vatturu)
+[![Email](https://img.shields.io/badge/Email-get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pardheev.vatturu1234@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-pardheev__draws-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/pardheev_draws)
+[![Resume](https://img.shields.io/badge/Resume-PDF-6366f1?style=flat-square&logo=readthedocs&logoColor=white)](https://pardheev.dev/resume/resume.pdf)
 
-<sub><code>// frontend</code></sub><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" height="44"/>
+## Tech Stack
 
-<sub><code>// backend</code></sub><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" height="44"/>
+| Area | Technologies |
+| :-- | :-- |
+| **Languages** | TypeScript, JavaScript, Python, C++ |
+| **Frontend** | HTML, CSS, React, Next.js, Tailwind CSS, Vite |
+| **Backend** | Node.js, Express, FastAPI |
+| **Databases** | PostgreSQL, MongoDB |
+| **AI / ML** | NumPy, Pandas, scikit-learn, BERT, Transformers, LSTM, PuLP, Matplotlib |
+| **Tools & Deploy** | Git, GitHub, npm, Vercel, Render |
 
-<sub><code>// databases</code></sub><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" height="44"/>
-
-<sub><code>// ai / ml</code></sub><br/>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" height="44"/>
-<img src="https://img.shields.io/badge/BERT-0d1117?style=flat-square&color=6366f1"/>
-<img src="https://img.shields.io/badge/Transformers-0d1117?style=flat-square&logo=huggingface&logoColor=white&color=6366f1"/>
-<img src="https://img.shields.io/badge/LSTM-0d1117?style=flat-square&color=6366f1"/>
-<img src="https://img.shields.io/badge/PuLP-0d1117?style=flat-square&color=6366f1"/>
-<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=flat-square&color=6366f1"/>
-
-<sub><code>// tools &amp; deploy</code></sub><br/>
-<img src="https://skillicons.dev/icons?i=git,github,npm,vercel" height="44"/>
-<img src="https://img.shields.io/badge/Render-0d1117?style=flat-square&logo=render&logoColor=white&color=46E3B7"/>
-
-<div align="center"><img src="assets/divider.svg" width="900" alt=""/></div>
-
-## <img src="https://api.iconify.design/lucide:activity.svg?color=%236366f1" height="24" align="center"/>&nbsp; /activity
+## Activity
 
 <div align="center">
 
@@ -68,19 +39,5 @@ I build across the full stack and care about the ML side of it too: web apps, NL
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=p-art-dheev&hide_border=true&background=FFFFFF&ring=6366f1&fire=ec4899&currStreakNum=1f2328&sideNums=1f2328&currStreakLabel=6366f1&sideLabels=57606a&dates=57606a">
   <img alt="Streak" src="https://streak-stats.demolab.com?user=p-art-dheev&theme=tokyonight&hide_border=true">
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=p-art-dheev&theme=tokyo-night&hide_border=true&area=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=p-art-dheev&bg_color=ffffff&color=6366f1&line=0ea5e9&point=ec4899&area_color=6366f1&title_color=1f2328&hide_border=true&area=true">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=p-art-dheev&theme=tokyo-night&hide_border=true&area=true">
-</picture>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=p-art-dheev&label=VISITORS&style=for-the-badge&color=6366f1&labelColor=0d1117&abbreviated=false" alt="visitor count"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1500&color=6366F1&center=true&vCenter=true&width=520&lines=%24+echo+%22Thanks+for+stopping+by%22;%24+git+commit+-m+%22Let%27s+build+something%22;%24+exit+0" alt="footer typing animation"/>
 
 </div>
