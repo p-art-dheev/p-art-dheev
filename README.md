@@ -10,22 +10,24 @@
 
 I build across the full stack and care about the ML side of it too: web apps, NLP models and time-series forecasting. I learn by shipping things, and most of what I know came from a project that needed it.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pardheev.dev-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://pardheev.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pardheev--vatturu-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pardheev-vatturu)
-[![Email](https://img.shields.io/badge/Email-get%20in%20touch-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pardheev.vatturu1234@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-pardheev__draws-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/pardheev_draws)
-[![Resume](https://img.shields.io/badge/Resume-PDF-6366f1?style=flat-square&logo=readthedocs&logoColor=white)](https://pardheev.dev/resume/resume.pdf)
+## Connect
+
+<a href="https://pardheev.dev" title="pardheev.dev"><img src="https://api.iconify.design/lucide:globe.svg?color=%230ea5e9" height="32" alt="Website"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/pardheev-vatturu" title="LinkedIn"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077B5" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:pardheev.vatturu1234@gmail.com" title="Email"><img src="https://api.iconify.design/simple-icons:gmail.svg?color=%23D14836" height="32" alt="Email"/></a>&nbsp;&nbsp;
+<a href="https://discord.gg/pardheev_draws" title="Discord"><img src="https://api.iconify.design/simple-icons:discord.svg?color=%235865F2" height="32" alt="Discord"/></a>&nbsp;&nbsp;
+<a href="https://pardheev.dev/resume/resume.pdf" title="Resume"><img src="https://api.iconify.design/lucide:file-text.svg?color=%236366f1" height="32" alt="Resume"/></a>
 
 ## Tech Stack
 
 | Area | Technologies |
 | :-- | :-- |
-| **Languages** | TypeScript, JavaScript, Python, C++ |
-| **Frontend** | HTML, CSS, React, Next.js, Tailwind CSS, Vite |
-| **Backend** | Node.js, Express, FastAPI |
-| **Databases** | PostgreSQL, MongoDB |
-| **AI / ML** | NumPy, Pandas, scikit-learn, BERT, Transformers, LSTM, PuLP, Matplotlib |
-| **Tools & Deploy** | Git, GitHub, npm, Vercel, Render |
+| **Languages** | <img src="assets/stack/languages.svg" height="40" alt="TypeScript, JavaScript, Python, C++"/> |
+| **Frontend** | <img src="assets/stack/frontend.svg" height="40" alt="HTML, CSS, React, Next.js, Tailwind CSS, Vite"/> |
+| **Backend** | <img src="assets/stack/backend.svg" height="40" alt="Node.js, Express, FastAPI"/> |
+| **Databases** | <img src="assets/stack/databases.svg" height="40" alt="PostgreSQL, MongoDB"/> |
+| **AI / ML** | <img src="assets/stack/ai-ml.svg" height="40" alt="NumPy, Pandas, scikit-learn, Matplotlib, Transformers, BERT, LSTM, PuLP"/> |
+| **Tools & Deploy** | <img src="assets/stack/tools.svg" height="40" alt="Git, GitHub, npm, Vercel, Render"/> |
 
 ## Activity
 
